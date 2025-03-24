@@ -1,6 +1,6 @@
 package Exercise2;
 
-public class Customer{
+public class Customer {
     private String name;
     private String type; // "Student", "Senior Citizen", or "Regular"
     private DiscountStrategy discountStrategy;
